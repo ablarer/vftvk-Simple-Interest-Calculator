@@ -1,4 +1,8 @@
+/*
+Designs the visual appearance of the site according the customer's preferences
+*/
 body {
+
     background-color: black;
     font-family: arial, serif;
     color: white
